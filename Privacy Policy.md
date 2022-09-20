@@ -14,7 +14,7 @@ Few parts of message content for logging system.
 
 Our bot only gathers personally identifiable data through commands run using the bot. This information helps us provide a better user experience for all Universal's users.
 
-The information we collect when you vote for Astroz on the third-party website Discord bot list
+The information we collect when you vote for Universal on the third-party website Discord bot list
 
 Your Username
 
