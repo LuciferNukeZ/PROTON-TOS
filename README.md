@@ -1,2 +1,2 @@
-# Universal Docs
-Documentation of Universal
+# Astroz Docs
+Documentation of Astroz
