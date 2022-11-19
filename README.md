@@ -1,2 +1,2 @@
-# Universal Docs
-Documentation of Universal
+# PROTON Docs
+Documentation of PROTON
